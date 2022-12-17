@@ -81,7 +81,7 @@ Link : https://github.com/BobyBiju/edisonsathackfirebase1
 # Steps To Run the Project in Android Studio:
 
 ```
-git clone https://github.com/BobyBiju/jolivenoserelectrothon.git
+git clone https://github.com/BobyBiju/edisonsathackfirebase1.git
 flutter pub get
 flutter run
 ```
